@@ -8,7 +8,6 @@ if (isset($_POST['dcomics'])) {
 } elseif (isset($_POST['marvel'])) {
     header('location:../anime.php');
     exit();
-} else {
-    header('location: /');
-    exit();
 }
+header('location: ../templates/else.php');
+exit();

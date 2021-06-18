@@ -4,7 +4,7 @@
     <nav>
         <ul>
             <li><a href="index.php"><i class="fas fa-house-user imenu"></i> Accueil</a></li>
-            <li><a href="anime.php"><i class="fas fa-users imenu"></i> Anime Universe</a></li>
+            <li><a href="../else.php"><i class="fas fa-users imenu"></i> Anime Universe</a></li>
             <?php if (isset($_SESSION['isConnected'])) : ?>
                 <div class="speak">
                     <i class="fab fa-speakap"></i>

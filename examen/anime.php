@@ -1,4 +1,3 @@
-<?php require('./templates/else.php') ?>
 <!DOCTYPE html>
 <html lang="fr">
 
