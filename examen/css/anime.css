@@ -1,0 +1,21 @@
+.jumbo{
+    background-image: url(../images/marvel.jpg);
+    margin: 10px;
+}
+
+
+.car{
+    width: 600px;
+    height: 200px;
+}
+
+h5{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'sofia',cursive;
+}
+
+.marvel{
+    padding: 15px;
+    margin: 15px;
+}

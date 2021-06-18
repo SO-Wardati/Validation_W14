@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html/":{"guestpath":"/var/www/html","hostpath":"C:/Users/warda/Desktop/Formation_IT_Akademy_DEV/VM/Validation/examen","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/warda/Desktop/Formation_IT_Akademy_DEV/VM/Validation","disabled":false,"__vagrantfile":true}}}

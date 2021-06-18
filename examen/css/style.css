@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.indx{
+    height: 120vh;
+}
+
+.indx>header{
+    height: 8%;
+}
+
+header{
+    background-color: #660524;
+}
+
+.indx>main{
+    height: 84%;
+    margin: 5px;
+}
+
+.indx>footer{
+    height: 8%;
+}
+
+.rosy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.prosy{
+    margin: 10px;
+    padding: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'sofia',cursive;
+}
+
+footer{
+    background-color: #660524;
+}
+
+.foot{
+    display: flex;
+    justify-content: space-between;
+}
+
+.divi{
+    display: flex;
+    margin: 5px;
+}
+
+.divi>p{
+    padding: 10px;
+    color: azure;
+    font-family: 'sofia',cursive;
+    align-self: center;
+
+}
+
+
+.cdm{
+    width: 90px;
+    height: 50px;
+}
+
+.acImg{
+    width: 1090px;
+    height: 75%;
+    margin-top: 10px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    margin: 8px;
+    padding: 5px;
+    color: azure;
+    font-size: 16px;
+    font-family: 'sofia', cursive;
+}
+
+.speak{
+    background-color: black;
+    display: flex;
+    margin-top: 4px;
+}
+
+.speak>i{
+    align-self: center;
+    font-size: 30px;
+    color: azure;
+}
+
+a{
+    color:azure;
+    font-family: 'sofia', cursive;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 5px;
+}
+
+i{
+    color: #660524;
+    font-size: 30px;
+    margin: 1px;
+}
+
+.imenu{
+    color: azure;
+    font-size: 20px;
+    margin: 1px;
+}
+
+.here{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.here>a{
+    color: black;
+}

@@ -1,0 +1,16 @@
+.jumbo{
+    background-image: url(../images/dc/DC\ comics.jpg);
+    margin: 10px;
+}
+
+
+h5{
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'sofia',cursive;
+}
+
+.dcc{
+    padding: 15px;
+    margin: 15px;
+}
